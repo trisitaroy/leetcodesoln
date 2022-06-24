@@ -1,0 +1,14 @@
+C:\Users\002G9D744\Desktop\My poc\ms\googlearray\googlearray\bin\Debug\netcoreapp3.1\googlearray.exe
+C:\Users\002G9D744\Desktop\My poc\ms\googlearray\googlearray\bin\Debug\netcoreapp3.1\googlearray.deps.json
+C:\Users\002G9D744\Desktop\My poc\ms\googlearray\googlearray\bin\Debug\netcoreapp3.1\googlearray.runtimeconfig.json
+C:\Users\002G9D744\Desktop\My poc\ms\googlearray\googlearray\bin\Debug\netcoreapp3.1\googlearray.runtimeconfig.dev.json
+C:\Users\002G9D744\Desktop\My poc\ms\googlearray\googlearray\bin\Debug\netcoreapp3.1\googlearray.dll
+C:\Users\002G9D744\Desktop\My poc\ms\googlearray\googlearray\bin\Debug\netcoreapp3.1\googlearray.pdb
+C:\Users\002G9D744\Desktop\My poc\ms\googlearray\googlearray\obj\Debug\netcoreapp3.1\googlearray.csproj.AssemblyReference.cache
+C:\Users\002G9D744\Desktop\My poc\ms\googlearray\googlearray\obj\Debug\netcoreapp3.1\googlearray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\002G9D744\Desktop\My poc\ms\googlearray\googlearray\obj\Debug\netcoreapp3.1\googlearray.AssemblyInfoInputs.cache
+C:\Users\002G9D744\Desktop\My poc\ms\googlearray\googlearray\obj\Debug\netcoreapp3.1\googlearray.AssemblyInfo.cs
+C:\Users\002G9D744\Desktop\My poc\ms\googlearray\googlearray\obj\Debug\netcoreapp3.1\googlearray.csproj.CoreCompileInputs.cache
+C:\Users\002G9D744\Desktop\My poc\ms\googlearray\googlearray\obj\Debug\netcoreapp3.1\googlearray.dll
+C:\Users\002G9D744\Desktop\My poc\ms\googlearray\googlearray\obj\Debug\netcoreapp3.1\googlearray.pdb
+C:\Users\002G9D744\Desktop\My poc\ms\googlearray\googlearray\obj\Debug\netcoreapp3.1\googlearray.genruntimeconfig.cache
