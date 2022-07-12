@@ -1,0 +1,14 @@
+C:\Users\002G9D744\Desktop\My poc\ms\BST\Binarytree\Binarytree\bin\Debug\netcoreapp3.1\Binarytree.exe
+C:\Users\002G9D744\Desktop\My poc\ms\BST\Binarytree\Binarytree\bin\Debug\netcoreapp3.1\Binarytree.deps.json
+C:\Users\002G9D744\Desktop\My poc\ms\BST\Binarytree\Binarytree\bin\Debug\netcoreapp3.1\Binarytree.runtimeconfig.json
+C:\Users\002G9D744\Desktop\My poc\ms\BST\Binarytree\Binarytree\bin\Debug\netcoreapp3.1\Binarytree.runtimeconfig.dev.json
+C:\Users\002G9D744\Desktop\My poc\ms\BST\Binarytree\Binarytree\bin\Debug\netcoreapp3.1\Binarytree.dll
+C:\Users\002G9D744\Desktop\My poc\ms\BST\Binarytree\Binarytree\bin\Debug\netcoreapp3.1\Binarytree.pdb
+C:\Users\002G9D744\Desktop\My poc\ms\BST\Binarytree\Binarytree\obj\Debug\netcoreapp3.1\Binarytree.csproj.AssemblyReference.cache
+C:\Users\002G9D744\Desktop\My poc\ms\BST\Binarytree\Binarytree\obj\Debug\netcoreapp3.1\Binarytree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\002G9D744\Desktop\My poc\ms\BST\Binarytree\Binarytree\obj\Debug\netcoreapp3.1\Binarytree.AssemblyInfoInputs.cache
+C:\Users\002G9D744\Desktop\My poc\ms\BST\Binarytree\Binarytree\obj\Debug\netcoreapp3.1\Binarytree.AssemblyInfo.cs
+C:\Users\002G9D744\Desktop\My poc\ms\BST\Binarytree\Binarytree\obj\Debug\netcoreapp3.1\Binarytree.csproj.CoreCompileInputs.cache
+C:\Users\002G9D744\Desktop\My poc\ms\BST\Binarytree\Binarytree\obj\Debug\netcoreapp3.1\Binarytree.dll
+C:\Users\002G9D744\Desktop\My poc\ms\BST\Binarytree\Binarytree\obj\Debug\netcoreapp3.1\Binarytree.pdb
+C:\Users\002G9D744\Desktop\My poc\ms\BST\Binarytree\Binarytree\obj\Debug\netcoreapp3.1\Binarytree.genruntimeconfig.cache

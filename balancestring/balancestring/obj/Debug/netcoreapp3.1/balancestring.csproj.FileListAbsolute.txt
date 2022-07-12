@@ -1,0 +1,13 @@
+C:\Users\002G9D744\Desktop\My poc\ms\balancestring\balancestring\bin\Debug\netcoreapp3.1\balancestring.exe
+C:\Users\002G9D744\Desktop\My poc\ms\balancestring\balancestring\bin\Debug\netcoreapp3.1\balancestring.deps.json
+C:\Users\002G9D744\Desktop\My poc\ms\balancestring\balancestring\bin\Debug\netcoreapp3.1\balancestring.runtimeconfig.json
+C:\Users\002G9D744\Desktop\My poc\ms\balancestring\balancestring\bin\Debug\netcoreapp3.1\balancestring.runtimeconfig.dev.json
+C:\Users\002G9D744\Desktop\My poc\ms\balancestring\balancestring\bin\Debug\netcoreapp3.1\balancestring.dll
+C:\Users\002G9D744\Desktop\My poc\ms\balancestring\balancestring\bin\Debug\netcoreapp3.1\balancestring.pdb
+C:\Users\002G9D744\Desktop\My poc\ms\balancestring\balancestring\obj\Debug\netcoreapp3.1\balancestring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\002G9D744\Desktop\My poc\ms\balancestring\balancestring\obj\Debug\netcoreapp3.1\balancestring.AssemblyInfoInputs.cache
+C:\Users\002G9D744\Desktop\My poc\ms\balancestring\balancestring\obj\Debug\netcoreapp3.1\balancestring.AssemblyInfo.cs
+C:\Users\002G9D744\Desktop\My poc\ms\balancestring\balancestring\obj\Debug\netcoreapp3.1\balancestring.csproj.CoreCompileInputs.cache
+C:\Users\002G9D744\Desktop\My poc\ms\balancestring\balancestring\obj\Debug\netcoreapp3.1\balancestring.dll
+C:\Users\002G9D744\Desktop\My poc\ms\balancestring\balancestring\obj\Debug\netcoreapp3.1\balancestring.pdb
+C:\Users\002G9D744\Desktop\My poc\ms\balancestring\balancestring\obj\Debug\netcoreapp3.1\balancestring.genruntimeconfig.cache

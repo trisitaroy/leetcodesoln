@@ -1,0 +1,14 @@
+C:\Users\002G9D744\Desktop\My poc\ms\rectanglepro\rectanglepro\bin\Debug\netcoreapp3.1\rectanglepro.exe
+C:\Users\002G9D744\Desktop\My poc\ms\rectanglepro\rectanglepro\bin\Debug\netcoreapp3.1\rectanglepro.deps.json
+C:\Users\002G9D744\Desktop\My poc\ms\rectanglepro\rectanglepro\bin\Debug\netcoreapp3.1\rectanglepro.runtimeconfig.json
+C:\Users\002G9D744\Desktop\My poc\ms\rectanglepro\rectanglepro\bin\Debug\netcoreapp3.1\rectanglepro.runtimeconfig.dev.json
+C:\Users\002G9D744\Desktop\My poc\ms\rectanglepro\rectanglepro\bin\Debug\netcoreapp3.1\rectanglepro.dll
+C:\Users\002G9D744\Desktop\My poc\ms\rectanglepro\rectanglepro\bin\Debug\netcoreapp3.1\rectanglepro.pdb
+C:\Users\002G9D744\Desktop\My poc\ms\rectanglepro\rectanglepro\obj\Debug\netcoreapp3.1\rectanglepro.csproj.AssemblyReference.cache
+C:\Users\002G9D744\Desktop\My poc\ms\rectanglepro\rectanglepro\obj\Debug\netcoreapp3.1\rectanglepro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\002G9D744\Desktop\My poc\ms\rectanglepro\rectanglepro\obj\Debug\netcoreapp3.1\rectanglepro.AssemblyInfoInputs.cache
+C:\Users\002G9D744\Desktop\My poc\ms\rectanglepro\rectanglepro\obj\Debug\netcoreapp3.1\rectanglepro.AssemblyInfo.cs
+C:\Users\002G9D744\Desktop\My poc\ms\rectanglepro\rectanglepro\obj\Debug\netcoreapp3.1\rectanglepro.csproj.CoreCompileInputs.cache
+C:\Users\002G9D744\Desktop\My poc\ms\rectanglepro\rectanglepro\obj\Debug\netcoreapp3.1\rectanglepro.dll
+C:\Users\002G9D744\Desktop\My poc\ms\rectanglepro\rectanglepro\obj\Debug\netcoreapp3.1\rectanglepro.pdb
+C:\Users\002G9D744\Desktop\My poc\ms\rectanglepro\rectanglepro\obj\Debug\netcoreapp3.1\rectanglepro.genruntimeconfig.cache

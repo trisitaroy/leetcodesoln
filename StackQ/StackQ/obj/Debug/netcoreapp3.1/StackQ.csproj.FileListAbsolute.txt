@@ -1,0 +1,14 @@
+C:\Users\002G9D744\Desktop\My poc\ms\StackQ\StackQ\bin\Debug\netcoreapp3.1\StackQ.exe
+C:\Users\002G9D744\Desktop\My poc\ms\StackQ\StackQ\bin\Debug\netcoreapp3.1\StackQ.deps.json
+C:\Users\002G9D744\Desktop\My poc\ms\StackQ\StackQ\bin\Debug\netcoreapp3.1\StackQ.runtimeconfig.json
+C:\Users\002G9D744\Desktop\My poc\ms\StackQ\StackQ\bin\Debug\netcoreapp3.1\StackQ.runtimeconfig.dev.json
+C:\Users\002G9D744\Desktop\My poc\ms\StackQ\StackQ\bin\Debug\netcoreapp3.1\StackQ.dll
+C:\Users\002G9D744\Desktop\My poc\ms\StackQ\StackQ\bin\Debug\netcoreapp3.1\StackQ.pdb
+C:\Users\002G9D744\Desktop\My poc\ms\StackQ\StackQ\obj\Debug\netcoreapp3.1\StackQ.csproj.AssemblyReference.cache
+C:\Users\002G9D744\Desktop\My poc\ms\StackQ\StackQ\obj\Debug\netcoreapp3.1\StackQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\002G9D744\Desktop\My poc\ms\StackQ\StackQ\obj\Debug\netcoreapp3.1\StackQ.AssemblyInfoInputs.cache
+C:\Users\002G9D744\Desktop\My poc\ms\StackQ\StackQ\obj\Debug\netcoreapp3.1\StackQ.AssemblyInfo.cs
+C:\Users\002G9D744\Desktop\My poc\ms\StackQ\StackQ\obj\Debug\netcoreapp3.1\StackQ.csproj.CoreCompileInputs.cache
+C:\Users\002G9D744\Desktop\My poc\ms\StackQ\StackQ\obj\Debug\netcoreapp3.1\StackQ.dll
+C:\Users\002G9D744\Desktop\My poc\ms\StackQ\StackQ\obj\Debug\netcoreapp3.1\StackQ.pdb
+C:\Users\002G9D744\Desktop\My poc\ms\StackQ\StackQ\obj\Debug\netcoreapp3.1\StackQ.genruntimeconfig.cache

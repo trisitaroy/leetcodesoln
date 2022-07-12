@@ -1,0 +1,14 @@
+C:\Users\002G9D744\Desktop\My poc\ms\linkedlist\linkedlist\bin\Debug\netcoreapp3.1\linkedlist.exe
+C:\Users\002G9D744\Desktop\My poc\ms\linkedlist\linkedlist\bin\Debug\netcoreapp3.1\linkedlist.deps.json
+C:\Users\002G9D744\Desktop\My poc\ms\linkedlist\linkedlist\bin\Debug\netcoreapp3.1\linkedlist.runtimeconfig.json
+C:\Users\002G9D744\Desktop\My poc\ms\linkedlist\linkedlist\bin\Debug\netcoreapp3.1\linkedlist.runtimeconfig.dev.json
+C:\Users\002G9D744\Desktop\My poc\ms\linkedlist\linkedlist\bin\Debug\netcoreapp3.1\linkedlist.dll
+C:\Users\002G9D744\Desktop\My poc\ms\linkedlist\linkedlist\bin\Debug\netcoreapp3.1\linkedlist.pdb
+C:\Users\002G9D744\Desktop\My poc\ms\linkedlist\linkedlist\obj\Debug\netcoreapp3.1\linkedlist.csproj.AssemblyReference.cache
+C:\Users\002G9D744\Desktop\My poc\ms\linkedlist\linkedlist\obj\Debug\netcoreapp3.1\linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\002G9D744\Desktop\My poc\ms\linkedlist\linkedlist\obj\Debug\netcoreapp3.1\linkedlist.AssemblyInfoInputs.cache
+C:\Users\002G9D744\Desktop\My poc\ms\linkedlist\linkedlist\obj\Debug\netcoreapp3.1\linkedlist.AssemblyInfo.cs
+C:\Users\002G9D744\Desktop\My poc\ms\linkedlist\linkedlist\obj\Debug\netcoreapp3.1\linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\002G9D744\Desktop\My poc\ms\linkedlist\linkedlist\obj\Debug\netcoreapp3.1\linkedlist.dll
+C:\Users\002G9D744\Desktop\My poc\ms\linkedlist\linkedlist\obj\Debug\netcoreapp3.1\linkedlist.pdb
+C:\Users\002G9D744\Desktop\My poc\ms\linkedlist\linkedlist\obj\Debug\netcoreapp3.1\linkedlist.genruntimeconfig.cache
